@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Binarize"]
 	path = Binarize
 	url = https://github.com/cran/Binarize
-	shallow = true
-	registered = true
 [submodule "BiTrinA"]
 	path = BiTrinA
 	url = https://github.com/cran/BiTrinA
-	shallow = true
-	registered = true
 [submodule "BoolNet"]
 	path = BoolNet
 	url = https://github.com/cran/BoolNet
-	shallow = true
-	registered = true
 [submodule "MOCCA"]
 	path = MOCCA
 	url = https://github.com/cran/MOCCA
-	shallow = true
-	registered = true
 [submodule "ORION"]
 	path = ORION
 	url = https://github.com/cran/ORION
-	shallow = true
-	registered = true
 [submodule "TunePareto"]
 	path = TunePareto
 	url = https://github.com/cran/TunePareto
-	shallow = true
-	registered = true
