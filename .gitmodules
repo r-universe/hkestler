@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BiTrinA"]
+	path = BiTrinA
+	url = https://github.com/cran/BiTrinA
 [submodule "Binarize"]
 	path = Binarize
 	url = https://github.com/cran/Binarize
