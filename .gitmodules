@@ -11,6 +11,9 @@
 [submodule "BoolNet"]
 	path = BoolNet
 	url = https://github.com/cran/BoolNet
+[submodule "GiANT"]
+	path = GiANT
+	url = https://github.com/cran/GiANT
 [submodule "MOCCA"]
 	path = MOCCA
 	url = https://github.com/cran/MOCCA
