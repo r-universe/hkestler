@@ -17,9 +17,6 @@
 [submodule "MOCCA"]
 	path = MOCCA
 	url = https://github.com/cran/MOCCA
-[submodule "ORION"]
-	path = ORION
-	url = https://github.com/cran/ORION
 [submodule "TunePareto"]
 	path = TunePareto
 	url = https://github.com/cran/TunePareto
